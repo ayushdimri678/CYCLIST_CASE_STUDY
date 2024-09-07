@@ -22,4 +22,4 @@ Through my analysis I have found out two major findings
 
 1 weekdays are more preferred by annual members, Its probably because members mainly use the bikes for travelling to their offices and weekends are more preferred by casual riders, Its probably because casual rider mainly use the bikes for entertainment purposes.
 
-2 summer season Is more preferred by annual members and casual riders and we see a big fall down in winter season
+2 summer season Is more preferred by annual members as well as casual riders and we see a big fall down in winter season
