@@ -13,8 +13,8 @@ PROCESS
 divvy-trip data source has been used to carry out my analysis, the data has been made available by motivate international inc.
 The data has high integrity due to its origin from a first party data source But it still has some minor error like null values.
 Data set also contained some data that is irrelevant for our analysis.
-I have used excel as my choice of tool to carry out my analysis
-I have transformed the data using excel functions for example I have created a column named start day that contains the day at which the bike ride start from the date field by using weekday function 
+
+Excel has been used to clean and analyze the data set
 
 FINDINGS
 
